@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.55646515"
+     inkscape:cx="635.25991"
+     inkscape:cy="438.48209"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f21a1a;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#f7f41a;stop-opacity:0.94968551;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient11"
+       x1="37.114563"
+       y1="101.56241"
+       x2="104.94663"
+       y2="101.56241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95597893,0,0,0.95597893,12.971236,-78.802077)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.2816px;font-family:Anurag;-inkscape-font-specification:'Anurag, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient11);stroke:none;stroke-width:2.86792;stroke-linejoin:round"
+       x="47.710041"
+       y="22.707388"
+       id="text2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.2816px;font-family:Anurag;-inkscape-font-specification:'Anurag, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient11);fill-opacity:1;stroke:none;stroke-width:2.86792"
+         x="47.710041"
+         y="22.707388"
+         id="tspan12"
+         dy="0 8.0622816 -8.0622816"
+         dx="0 -2.6874268 2.6874268">Hello World!</tspan></text>
+    <ellipse
+       style="fill:none;stroke:none;stroke-width:3;stroke-linejoin:round"
+       id="path13"
+       ry="36.280258"
+       rx="77.76741"
+       cy="-95.975052"
+       cx="-132.99692"
+       transform="rotate(-171.48555)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Anurag;-inkscape-font-specification:'Anurag, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:3;stroke-linejoin:round"
+       id="text13"
+       transform="matrix(0.99101303,-0.11469515,0.10906097,1.0422096,-18.233762,40.265286)"><textPath
+         xlink:href="#path13"
+         id="textPath13"><tspan
+           id="tspan13"
+           style="fill:#ff0000;stroke-width:3">   KUMAR ANURAG</tspan></textPath></text>
+  </g>
+</svg>
