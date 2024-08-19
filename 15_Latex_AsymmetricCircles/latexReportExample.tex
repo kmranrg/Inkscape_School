@@ -1,0 +1,35 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+% Package for figures and images
+\usepackage{graphicx}
+
+% Package for the 'boxed' command
+\usepackage{amsmath}
+
+% Package for dummy text
+\usepackage{lipsum}
+
+% Package for page sizing
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
+% Additional package required for lipsum
+\usepackage{babel}
+
+% Begin Document
+\begin{document}
+
+\section{Header 1}
+\lipsum[1-2]
+
+\begin{figure}[!h]
+\centering
+%trim order = left bottom right top
+\boxed{\includegraphics[trim = 0mm 0mm 0mm 0mm, clip, width=17cm]{drawing.pdf}}
+\caption{Figure caption}
+\label{figureLabel}
+\end{figure}
+
+\lipsum[4-10]
+
+\end{document}
